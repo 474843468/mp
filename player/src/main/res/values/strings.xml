@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobilePlayer</string>
+    <string name="titile_video">视频</string>
+    <string name="titile_audio">音乐</string>
+</resources>

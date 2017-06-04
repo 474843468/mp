@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\code-as\\MobilePlayer\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "D:\\Android\\code-as\\MobilePlayer\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "D:\\develop\\px\\MobilePlayer\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "D:\\develop\\px\\MobilePlayer\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    }
+]
